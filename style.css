@@ -1,0 +1,16 @@
+body{
+    background-image: url(lum3n--RBuQ2PK_L8-unsplash.jpg);
+    background-size: cover;
+    padding: 0px;
+}
+.container{
+   
+    height: 600px;
+    width: 100%;
+    text-align: center;
+    
+}
+
+h1{
+    padding-top: 20%;
+}
