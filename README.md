@@ -1,3 +1,2 @@
 # auto-writing-text-
-THIS IS A SIMPLE JAVASCRIPT AUTO WRITING TEXT 
-YOU CAN TWEAK IT ACCORDING TO YOUR OWN WILL
+this is cool and you can include it into your portfilio website or blogs
